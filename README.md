@@ -30,7 +30,8 @@ This project began as an exploration of first-person shooter mechanics. Key lear
 ### Controls
 - **WASD**: Movement
 - **Spacebar**: Jump
-- **Mouse**: Aim & Shoot
+- **Left Click**: Shoot
+- **Right Click**: Aim
 
 ### Gameplay
 Prepare yourself for combat in a zombie-infested environment. Zombies will roam until you are spotted, at which point they will chase you.
