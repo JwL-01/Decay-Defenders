@@ -34,23 +34,30 @@ This project began as an exploration of first-person shooter mechanics. Key lear
 - **Right Click**: Aim
 
 ### Gameplay
-Prepare yourself for combat in a zombie-infested environment. Zombies will roam until you are spotted, at which point they will chase you.
+- Prepare yourself for combat in a zombie-infested environment. 
+- Zombies will roam until you are spotted, at which point they will chase you.
 
 ## Updates
-- September 2024: Added multiplayer functionality. Did testing over LAN with another user.
 
-https://youtu.be/KiKK-RkUMS0
+### December 2024:
+- Created custom island map using the landmass, and water tools in Unreal Engine 5. Also using assets from the UE Marketplace
 
-[![Video](https://img.youtube.com/vi/KiKK-RkUMS0/0.jpg)](https://youtu.be/KiKK-RkUMS0)
+https://youtu.be/KJHFvyykDr4
 
+[![Video](https://img.youtube.com/vi/KJHFvyykDr4/0.jpg)](https://youtu.be/KJHFvyykDr4)
+
+
+### October 2024: 
 - Zombie AI Demonstration. When a zombie is roaming, it will walk until a player gets near the zombie. Once they are near, it will run towards the player.
 
 https://youtu.be/VyQr_e1gmyA
 
 [![Video](https://img.youtube.com/vi/VyQr_e1gmyA/0.jpg)](https://youtu.be/VyQr_e1gmyA)
 
-- December 2024: Created custom island map using the landmass, and water tools in Unreal Engine 5. Also using assets from the UE Marketplace
 
-https://youtu.be/KJHFvyykDr4
+### September 2024:
+- Added multiplayer functionality. Did testing over LAN with another user.
 
-[![Video](https://img.youtube.com/vi/KJHFvyykDr4/0.jpg)](https://youtu.be/KJHFvyykDr4)
+https://youtu.be/KiKK-RkUMS0
+
+[![Video](https://img.youtube.com/vi/KiKK-RkUMS0/0.jpg)](https://youtu.be/KiKK-RkUMS0)
