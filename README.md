@@ -3,7 +3,7 @@
 ![decaydefendersimage](https://github.com/user-attachments/assets/982e8328-4210-4eea-ab19-da0ac848690b)
 
 ## Introduction
-Welcome to **Decay Defenders**, a fast-paced first-person shooter game built with **Unreal Engine 5** and **C++**. Dive into a world ravaged by the undead where survival is a test of your aim, reflexes, and strategy. The game's development is ongoing, with frequent updates and exciting new features on the way.
+Welcome to **Decay Defenders**, a fast-paced first-person shooter game built with **Unreal Engine 5** and **C++**. I am currently working on the game's development, adding updates and new features as I work full time.
 
 ## Table of Contents
 - [Project Goals & Objectives](#project-goals--objectives)
