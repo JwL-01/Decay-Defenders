@@ -56,7 +56,7 @@ https://youtu.be/VyQr_e1gmyA
 
 
 ### September 2024:
-- Added multiplayer functionality. Did testing over LAN with another user.
+- Added multiplayer functionality. Did testing over LAN with my brother on home internet.
 
 https://youtu.be/KiKK-RkUMS0
 
